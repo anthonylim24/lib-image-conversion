@@ -1,6 +1,6 @@
 {
-  "name": "image-conversion",
-  "version": "1.1.10",
+  "name": "lib-image-conversion",
+  "version": "1.1.11",
   "description": "A simple and easy-to-use JS image convert tools, which can specify size to compress the image.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "fix-lint": "eslint --fix src/conversion.js",
     "test": "mocha"
   },
-  "author": "wangyulue",
+  "author": "anthony.lim",
   "keywords": [
     "image",
     "resize",
@@ -30,7 +30,7 @@
     "eslint-plugin-import": "^2.14.0",
     "git-pre-hooks": "^1.2.0",
     "gulp": "^3.9.1",
-    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-babel": "^8.0.0",
     "gulp-uglify-es": "^1.0.4"
   },
   "dependencies": {
