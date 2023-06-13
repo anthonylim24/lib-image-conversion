@@ -1,9 +1,9 @@
 {
-  "name": "image-conversion",
+  "name": "lib-image-conversion",
   "version": "2.1.1",
   "description": "A simple and easy-to-use JS image convert tools, which can specify size to compress the image.",
   "main": "index.js",
-  "author": "wangyulue",
+  "author": "anthony.lim",
   "files": [
     "build",
     "src",
